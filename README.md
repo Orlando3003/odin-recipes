@@ -1,12 +1,13 @@
-# Odin Recipe Project
+# Odin Recipes Project
 
-This is my first project to work on in Odin Project: Foundations Course (HTML).
-And this project is about creating a recipe website with only HTML structure no CSS (Design) part.
+This is my first project in The Odin Project: Foundations Course (HTML).
 
-After doing this project, I understand and learned to:
+This project is about creating a simple recipe website using only HTML, without CSS (design).
 
-* Learn basic fundamentals of HTML.
-* Understand the syntax and structures used.
-* And build a recipe webpage from scratch.
-* Learned to commit message as a beginner.
-* Learned some git commands.
+## What I Learned
+
+- Basic fundamentals of HTML
+- Understanding HTML syntax and structure
+- Building a recipe webpage from scratch
+- Writing commit messages as a beginner
+- Using basic Git commands
